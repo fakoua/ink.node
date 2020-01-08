@@ -2,6 +2,10 @@
   "name": "ink.node",
   "version": "1.0.0",
   "main": "dist/index.js",
+  "author": {
+    "name": "Sameh Fakoua",
+    "email": "s.fakoua@gmail.com"
+  },
   "license": "MIT",
   "scripts": {
     "build": "rimraf irf dist/* && tsc",
