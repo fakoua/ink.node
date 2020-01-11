@@ -94,7 +94,8 @@ console.log(result);
 ```
 
 Output:
-IMAGE01
+
+![output](https://github.com/fakoua/ink/blob/master/forgit/img01.png)
 
 ### Supported Styles
 
