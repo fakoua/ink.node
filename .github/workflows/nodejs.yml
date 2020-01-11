@@ -19,6 +19,9 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - uses: borales/actions-yarn@v2.0.0
       with:
-        cmd: install, build, test
+        cmd: |
+          install
+          build
+          test
       env:
         CI: true
